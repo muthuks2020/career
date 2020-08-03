@@ -3305,3 +3305,7 @@ blockquote {
 .seeker-btn a{font-size:14px; }
 .seeker-btn a:first-child{margin-right: 15px; }
 .header-nav.menu-bg .navbar-brand{margin-top: 11px}
+.seeker-list a.btn {
+    font-size: 14px; 
+    padding: 3px 11px;
+}
