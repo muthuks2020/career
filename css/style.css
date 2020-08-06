@@ -3309,3 +3309,28 @@ blockquote {
     font-size: 14px; 
     padding: 3px 11px;
 }
+.service-menu a.custom-icon-container, .custom-icon-container{display: flex;align-items: center}
+.section-title-box strong, .widget-title strong{margin-left:7px;margin-right:7px; }
+.custom-icon{
+	width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-size: 100%;
+    margin-right: 7px;
+}
+.creative-title{font-size: 29px;}
+.icon-naukri{ background-image:url("../images/newicons/Icon_HowtoRegisterinNaukri.png"); }
+.icon-linkin{ background-image:url("../images/newicons/Icon_HowtoRegisterinLinkedin.png"); }
+.icon-job{background-image:url("../images/newicons/Icon_DifferentJobPortals.png");}
+.icon-freelance{background-image:url("../images/newicons/Icon_Freelance.png");}
+.icon-creativeportfolios{background-image:url("../images/newicons/Icon_CreativePortfolios.png");}
+.icon-commonquestionnaires{background-image:url("../images/newicons/Icon_FewCommonQuestionnaires.png");}
+.icon-preparetheresume{background-image:url("../images/newicons/Icon_HowtoPreparetheResume.png");}
+.icon-resumeformats{background-image:url("../images/newicons/Icon_ResumeFormats.png");}
+.icon-talkwithtips{background-image:url("../images/newicons/Icon_InterviewTalkswithTips.png");}
+.home-page .custom-icon{width: 50px;height: 50px;}
+
+
+
+
+
